@@ -26,10 +26,19 @@ github_username:  wildanmaulana
 markdown: kramdown
 theme: minima
 gems:
+  - jekyll-mentions
+  - jemoji
+  - jekyll-redirect-from
+  - jekyll-sitemap
   - jekyll-feed
 exclude:
   - Gemfile
   - Gemfile.lock
   - LICENSE
-   README.md
-  - CNAME
+  - README.md
+  - CNAME  
+defaults:
+  - scope:
+      path: "assets/images"
+    values:
+      image: true
