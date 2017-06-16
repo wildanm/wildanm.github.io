@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Revitalisasi Parangtopo - Bagian1"
+title:  "Revitalisasi Laboratorium Parang topo - Bagian1"
 date:   2017-06-17 00:26:00 +0700
 categories: parang topo
 ---
