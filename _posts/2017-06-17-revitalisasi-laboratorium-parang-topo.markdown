@@ -30,7 +30,10 @@ dan di sini.
 ![Bangunan 2](/assets/images/laboratorium_parang_topo/kondisi_awal/20170125_171044.jpg "Bangunan 2"){: .img-responsive}
 
 #### Bangunan 3
-![Bangunan 3](/assets/images/laboratorium_parang_topo/kondisi_awal/20170125_171044.jpg "20170606_133833.jpg"){: .img-responsive}
+![Bangunan 3](/assets/images/laboratorium_parang_topo/kondisi_awal/20170125_171044.jpg "Bangunan 3"){: .img-responsive}
+
+#### Bangunan 4
+![Bangunan 4](/assets/images/laboratorium_parang_topo/kondisi_awal/20170606_133833.jpg "Bangunan 4"){: .img-responsive}
 
 #### Rumah Kompos
 
