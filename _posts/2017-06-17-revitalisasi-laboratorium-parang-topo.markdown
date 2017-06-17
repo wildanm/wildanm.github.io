@@ -24,6 +24,8 @@ dan di sini.
 #### Bangunan 1
 ![Bangunan 1](/assets/images/laboratorium_parang_topo/kondisi_awal/20170125_171343.jpg "Bangunan 1"){: .img-responsive}
 
+<!--more-->
+
 #### Bangunan 2
 ![Bangunan 2](/assets/images/laboratorium_parang_topo/kondisi_awal/20170125_171044.jpg "Bangunan 2"){: .img-responsive}
 
@@ -34,7 +36,6 @@ dan di sini.
 
 ![Rumus Kompos](/assets/images/laboratorium_parang_topo/kondisi_awal/20170606_131824.jpg "Rumah Kompos"){: .img-responsive}
 
-<!--more-->
 
 Rumah kompos dengan luas 4x10 meter.
 
