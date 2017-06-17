@@ -22,7 +22,7 @@ defaults:
       path: "assets/images"
     values:
       image: true
-highlighter: true
+rouge: true
 markdown: kramdown
 extensions: [fenced_code_blocks]
 excerpt_separator: "<!--more-->"
