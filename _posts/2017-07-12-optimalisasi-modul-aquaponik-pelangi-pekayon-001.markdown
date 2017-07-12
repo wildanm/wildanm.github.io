@@ -10,6 +10,8 @@ tags: [eksperimen]
 
 Total Ikan Gurame yang akan dimasukkan adalah 100 ekor.
 
+<!--more-->
+
 Pada  tanggal 12 Juli 2017, pukul 22.00, dimasukkan 13 ekor ikan Gurame.
 Disimpan juga 2 Ekor ikan cupang di mekanikal filter untuk mencegah munculnya
 jentik-jentik nyamuk.
