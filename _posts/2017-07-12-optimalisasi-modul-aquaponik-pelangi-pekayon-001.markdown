@@ -23,5 +23,7 @@ Pada tenggang waktu 12 Juli dan Agustus, 9 ekor ikan Gurame hitam mati, karena
 terserang jamur, sudah coba disembuhkan tapi tidak terselamatkan. Jadi sampai saat ini,
 total ada 15 ekor ikan.
 
+Pada tanggal 19 Oktober 2017, dimasukkan 2 ekor ikan gurame padang. 
+
 #### Referensi
 1. Modul Aquaponik #PelangiPekayon 001, [http://payitforward.negeripelangi.org/2017/01/modul-aquaponik-pelangipekayon-001.html](http://payitforward.negeripelangi.org/2017/01/modul-aquaponik-pelangipekayon-001.html)
