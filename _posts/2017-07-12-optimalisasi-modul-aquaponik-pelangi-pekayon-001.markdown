@@ -27,5 +27,9 @@ Pada tanggal 19 Oktober 2017, dimasukkan 2 ekor ikan gurame padang.
 
 Pada tanggal 1 November 2017, dimasukkan 2 ekor ikan gurame padang. 
 
+Pada tanggal 10 November 2017, dimasukkan 3 ekor ikan gurame padang. 
+
+Total sekarang ada 22 ekor.
+
 #### Referensi
 1. Modul Aquaponik #PelangiPekayon 001, [http://payitforward.negeripelangi.org/2017/01/modul-aquaponik-pelangipekayon-001.html](http://payitforward.negeripelangi.org/2017/01/modul-aquaponik-pelangipekayon-001.html)
